@@ -28,7 +28,7 @@ plankton-0.4.0.zip
 
 ## Important Things to Note
 
-1. Packages **must** have a top-level [`manifest.yml`](manifest.md) file.
+1. Packages **must** have a top-level [`manifest.yml`](../the-package-manifest) file.
    Details about the manifest can be found in the [Manifest Reference Guide](../the-package-manifest).
 2. Any plug-ins (`.rhp`, `.gha`, `.ghpy` files) **must** be in the top-level directory
    so that Rhino and Grasshopper can find and load them
